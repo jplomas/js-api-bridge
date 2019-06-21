@@ -1,8 +1,8 @@
 {
   "name": "@theqrl/js-api-bridge",
-  "version": "0.0.2",
-  "description": "",
-  "main": "src/client.js",
+  "version": "1.0.1",
+  "description": "JS library to make API calls to QRL node",
+  "main": "dist/client.js",
   "scripts": {
     "browserify": "",
     "start": "npm run serve",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/theQRL/js-api-bridge.git"
   },
-  "author": "",
+  "author": "QRL contributors",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/theQRL/js-api-bridge/issues"
